@@ -1,0 +1,9 @@
+ACESSO DO SISTEMA
+
+Usuário: admin@ipda.local
+Senha: 123456
+
+IMPORTANTE:
+- Este acesso é criado automaticamente no backend na primeira inicialização.
+- Guarde estas informações em local seguro.
+- Depois podemos criar troca de senha e múltiplos usuários.
